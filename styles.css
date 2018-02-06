@@ -1,0 +1,142 @@
+body {
+    background: #eee;
+}
+
+.yrs{
+    margin: 10px auto
+    width: 60%;
+    background-color: #777;
+    color: #fff;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    border: 2px solid #00f;
+    border-radius: 5px;
+    transition: all .2s linear;
+}
+
+.yrs:hover{
+    transform: scale(1.1);
+}
+
+.mo{
+    margin: 10px auto;
+    width: 60%;
+    background-color: #333;
+    color: #fff;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    border: 2px solid #f00;
+    border-radius: 25px;
+    transition: all .2s linear;
+}
+
+.mo:hover{
+    transform: scale(1.1);
+}
+.wks{
+    margin: 10px auto;
+    width: 60%;
+    background-color: #333;
+    color: #fff;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    border: 2px solid #f00;
+    border-radius: 25px;
+    transition: all .2s linear;
+}
+
+.wks:hover{
+    transform: scale(1.1);
+}
+.days{
+    margin: 10px auto;
+    width: 60%;
+    background-color: #333;
+    color: #fff;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    border: 2px solid #f00;
+    border-radius: 25px;
+    transition: all .2s linear;
+}
+
+.days:hover{
+    transform: scale(1.1);
+}
+.hrs{
+    margin: 10px auto;
+    width: 60%;
+    background-color: #333;
+    color: #fff;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    border: 2px solid #f00;
+    border-radius: 25px;
+    transition: all .2s linear;
+}
+
+.hrs:hover{
+    transform: scale(1.1);
+}
+.min{
+    margin: 10px auto;
+    width: 60%;
+    background-color: #333;
+    color: #fff;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    border: 2px solid #f00;
+    border-radius: 25px;
+    transition: all .2s linear;
+}
+
+.min:hover{
+    transform: scale(1.1);
+}
+.sec{
+    margin: 10px auto;
+    width: 60%;
+    background-color: #333;
+    color: #fff;
+    font-size: 22px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    border: 2px solid #f00;
+    border-radius: 25px;
+    transition: all .2s linear;
+}
+
+.sec:hover{
+    transform: scale(1.1);
+}
+
+.final{
+    margin: 10px auto;
+    width: 360px;
+    background-color: #000;
+    color: #fff;
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+    padding: 10px;
+    border: 2px solid #f00;
+    border-radius: 25px;
+    transition: all .2s linear;
+}
+
+.final:hover{
+    transform: scale(1.6);
+}
